@@ -74,4 +74,4 @@ while key != 27:                                                   # While Esc k
     
 curses.endwin()
 print("\nScore - " + str(score))
-print("Created by Sanchit Gangwar (bitemelater.in)\n")
+print("http://bitemelater.in\n")
